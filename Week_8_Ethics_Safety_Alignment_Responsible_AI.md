@@ -1,4 +1,4 @@
-# Week 8: Ethics, Safety, Alignment & Responsible AI
+# Ethics, Safety, Alignment & Responsible AI
 
 > A comprehensive study guide examining the AI alignment problem, exploring key ethical challenges, analyzing agentic AI risks, and critically assessing agent behaviors through an ethical lens.
 
