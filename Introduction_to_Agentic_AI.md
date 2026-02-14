@@ -1,4 +1,4 @@
-# Week 6: Introduction to Agentic AI
+# Introduction to Agentic AI
 
 > A comprehensive guide to understanding Agentic AI, its key characteristics, how it differs from traditional AI paradigms, the role of rational agents in autonomous decision-making, and how agents communicate using the Model Context Protocol (MCP).
 
